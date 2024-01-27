@@ -1,2 +1,2 @@
-# mc-version-files
-Version files for minecraft mods.
+# Description
+Version files to assist in compiling minecraft fabric mods.
